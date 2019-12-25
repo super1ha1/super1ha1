@@ -1,0 +1,90 @@
+{
+  "main": {
+    "name":"Billy Nguyen",
+    "occupation":"Software Engineer",
+    "description":"Technology enthusiast who loves to build things",
+    "image":"khue_photo.png",
+    "bio":"",
+    "contactmessage":"Feel free to let me know if I can be of any assistance.",
+    "email": "khue0011@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"Singapore",
+      "state":"",
+      "zip": ""
+    },
+    "website": "https://super1ha1.github.io/",
+    "resumedownload":"https://www.linkedin.com/in/khuenguyendac/",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NguyenDacKhue",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/khuenguyendac/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/super1ha1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Nanyang Technological University",
+        "degree":"Bachelor of Enginnering",
+        "graduated":"2016",
+        "description":"Computer Science"
+      }
+    ],
+    "work":[
+      {
+        "company":"Rakuten",
+        "title":"Software Engineer",
+        "years":"July 2016 - Present",
+        "description":"Fullstack engineer to build web application, data pipeline and machine learning projecs."
+      },
+      {
+        "company":"Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY)",
+        "title":"Part time Android Developer",
+        "years":"October 2014 - May 2016",
+        "description":"Build Android app to support the elderly."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Framework: React.js, Spring, MapReduce, Spark, Hive",
+        "level":"60%"
+      },
+      {
+        "name":"Platforms | Tools: Jenkin, Docker, Gradle, webpack, Redis",
+        "level":"60%"
+      },
+      {
+        "name":"Machine Learning: scikit learn, NLP, gensim",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Youtube Repeat part of Video",
+        "category":"Extension to repeat video on Youtube",
+        "image":"youtube-repeat.png",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}
