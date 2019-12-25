@@ -23,18 +23,18 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            {/* <h2>About Me</h2> */}
 
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
+						   {/* <span>{name}</span><br />
 						   <span>{street}<br />
 						         {city} {state}, {zip}
                    </span><br />
-						   <span>{phone}</span><br />
+						   <span>{phone}</span><br /> */}
                      <span>{email}</span>
 					   </p>
                </div>
